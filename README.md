@@ -1,8 +1,4 @@
 
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo5960
-Fork on GitHub1013
 <h1 align="center">Hi 👋, I'm Bruno Miranda</h1>
 <h3 align="center">Becoming a full stack developer</h3>
 
