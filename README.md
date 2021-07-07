@@ -2,13 +2,15 @@
 <h1 align="center">Hi 👋, I'm Bruno Miranda</h1>
 <h3 align="center">Becoming a full stack developer</h3>
 
-<p align="left"> <a href="https://twitter.com/blostt_" target="blank"><img src="https://img.shields.io/twitter/follow/blostt_?logo=twitter&style=for-the-badge" alt="blostt_" /></a> </p>
+📫 Reach me out 👇
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-miranda-a6b510156/)](https://www.linkedin.com/in/bruno-miranda-a6b510156/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/blostt_/)](https://www.instagram.com/blostt_/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Blostt_)](https://twitter.com/Blostt_)
 
 - 🌱 I’m currently learning **Typescript, AWS Services**
 
 - 💬 Ask me about **PHP, Python, NodeJS, Docker**
-
-- 📫 How to reach me **https://www.linkedin.com/in/bruno-miranda-a6b510156/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
