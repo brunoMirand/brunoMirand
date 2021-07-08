@@ -1,6 +1,5 @@
 
 <h1 align="center">Hi 👋, I'm Bruno Miranda</h1>
-<h3 align="center">Becoming a full stack developer</h3>
 
 📫 Reach me out 👇
 
