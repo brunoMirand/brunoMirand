@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Typescript, AWS Services and Web Hacking**
 
-- 💬 Ask me about **PHP, Python, NodeJS, Docker**
+- 💬 Ask me about **PHP, Python, NodeJS, Docker, AWS, Design Software, Architecture, SOLID**
 
 <div>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunoMirand&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
