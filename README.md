@@ -7,8 +7,6 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/blostt_/)](https://www.instagram.com/blostt_/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Blostt_)](https://twitter.com/Blostt_)
 
-- 🌱 I’m currently learning **Typescript, AWS Services and Web Hacking**
-
 - 💬 Ask me about **PHP, Python, NodeJS, Docker, AWS, Design Software, Architecture, SOLID**
 
 <div>
