@@ -11,7 +11,6 @@
 
 <div>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunoMirand&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoMirand&layout=compact&langs_count=16&theme=onedark"/>
     <img onclick="https://github.com/brunoMirand/" align="center"   src="http://www.thejewelleryeditor.com/media/images_thumbnails/filer_public_thumbnails/old/16294/spacer.gif__1536x0_q75_crop-scale_subsampling-2_upscale-false.png" width="5" />
 </div>
 
